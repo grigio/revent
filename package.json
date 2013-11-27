@@ -1,0 +1,31 @@
+{
+  "name": "revent",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Luigi Maselli <grigio.org_@t_gmail.com>",
+  "description": "An utility lib to convert a list of consecutive dates to events",
+  "contributors": [ 
+  ],
+  "main": "./lib/revent",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grigio/revent.git"
+  },
+  "keywords": [
+    "ical",
+    "events",
+    "dates",
+    "rrule"
+  ],
+  "dependencies" : {
+  },
+  "analyze": false,
+  "devDependencies": {
+    "mocha"    :  "1.x.x",
+    "expect.js" :  "0.2.x"
+  }, 
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
