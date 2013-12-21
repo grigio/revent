@@ -1,4 +1,4 @@
-var REvent = require('../lib/revent').REvent;
+var REvent = require('../lib/revent');
 
 var expect = require('expect.js');
 
